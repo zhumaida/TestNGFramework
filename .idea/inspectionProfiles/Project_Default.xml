@@ -1,0 +1,28 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="groupsTestNG" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="groups">
+        <value>
+          <list size="15">
+            <item index="0" class="java.lang.String" itemvalue="regression" />
+            <item index="1" class="java.lang.String" itemvalue="sauceLogin" />
+            <item index="2" class="java.lang.String" itemvalue="saucePositive" />
+            <item index="3" class="java.lang.String" itemvalue="saucedemo" />
+            <item index="4" class="java.lang.String" itemvalue="smoke" />
+            <item index="5" class="java.lang.String" itemvalue="sauceNegative" />
+            <item index="6" class="java.lang.String" itemvalue="productSorting" />
+            <item index="7" class="java.lang.String" itemvalue="blazePositive" />
+            <item index="8" class="java.lang.String" itemvalue="blazedemo" />
+            <item index="9" class="java.lang.String" itemvalue="flights" />
+            <item index="10" class="java.lang.String" itemvalue="createAccount" />
+            <item index="11" class="java.lang.String" itemvalue="magento" />
+            <item index="12" class="java.lang.String" itemvalue="magentoPositive" />
+            <item index="13" class="java.lang.String" itemvalue="magentoPostive" />
+            <item index="14" class="java.lang.String" itemvalue="signIn" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

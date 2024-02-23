@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="MindtekTestNGFramework">
+    <test name="UI Automation">
+        <groups>
+            <run>
+                <include name="saucePositive"/>
+                <exclude name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="tests.FrameworkTest"/>
+            <class name="tests.BlazedemoTests"/>
+            <class name="tests.SaucedemoTests"/>
+        </classes>
+    </test>
+</suite>
